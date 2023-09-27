@@ -1,7 +1,7 @@
 {
   "id": "ef8a8d7e-97fb-41d5-aa55-ffbe760b1ed0",
   "realm": "master",
-  "displayName": "Keycloak",
+  "displayName": "LucaTest",
   "displayNameHtml": "<div class=\"kc-logo-text\"><span>Keycloak</span></div>",
   "notBefore": 0,
   "defaultSignatureAlgorithm": "RS256",
